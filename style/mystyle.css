@@ -1,0 +1,21 @@
+body {
+  background-color: #fff;
+  /* border-top: 5px solid #3399cc; */
+  height: 100vw;
+}
+
+html {
+  background: #fff;
+  height: 100vw;
+}
+
+.header{
+  position: absolute;
+  top: 10px;
+  width: 100vw;
+}
+.footer{
+  position: absolute;
+  bottom: 5px;
+  width: 100vw;
+}

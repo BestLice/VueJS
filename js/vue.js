@@ -1,8 +1,9 @@
 var app = new Vue({
     el: '#app',
     data: {
-      message: 'Hello Vue!'
-      
+      message: 'Hello Vue!',
+      showToDo: true,
+      showStuff: false
     },
     methods: {
     //  sum: function(a, b){
